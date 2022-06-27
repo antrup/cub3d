@@ -16,7 +16,7 @@ cd mlx-linux && ./configure
 make
 
 ### Run
-./cub3D [map]
+./cub3D path_to_map
 
 ## Map
 
